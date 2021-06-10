@@ -1,2 +1,2 @@
-# brackets
-code base for twiddling brackets
+# relop
+foundational study of relational operators `< >` 
