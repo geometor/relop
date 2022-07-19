@@ -6,13 +6,14 @@ generate a relational operator series
 from relop import *
 
 
-seed_key = "2c"
+seed_key = '2a'
 seed = SEEDS[seed_key]
 num = 5
 
-rows = generate(seed, num)
+rows = generate_2(seed, num)
 
-log_name = f'{seed_key}-{num}.log'
+log_name = f'{seed_key}-{num:0>3}-nest.log'
+
 with open(log_name, 'w') as f:
     f.write(f'seed_key: {seed_key}\n')
     f.write(f'seed: {seed}\n')
