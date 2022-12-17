@@ -5,4 +5,4 @@ Welcome to RELOP
    :tags: 
    :category: STATUS
 
-First log entry for the poject
+First log entry for the project
