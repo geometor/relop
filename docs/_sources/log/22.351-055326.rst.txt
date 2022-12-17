@@ -1,0 +1,8 @@
+Move content from other sources to reST files
+=============================================
+
+.. post::  22.351-055326
+   :tags: urgent
+   :category: TODO
+
+begin organizing previous writings and references
