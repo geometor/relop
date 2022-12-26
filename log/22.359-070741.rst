@@ -1,0 +1,14 @@
+Integrate Graphviz
+==================
+
+.. post::  22.359-070741
+   :tags: graphs
+   :category: TODO
+
+Graphviz is a layout engine for various types of graphs
+
+.. graph:: foo
+
+   A -- B
+   B -- C
+   C -- A
