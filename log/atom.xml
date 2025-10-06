@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://geometor.github.io/relop</id>
   <title>geometor • relop</title>
-  <updated>2023-11-13T18:09:20.161095+00:00</updated>
+  <updated>2025-10-06T00:54:53.108096+00:00</updated>
   <link href="https://geometor.github.io/relop"/>
   <link href="https://geometor.github.io/relop/log/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="unknown.dev">ABlog</generator>
@@ -14,7 +14,7 @@
 &lt;p&gt;First log entry for the project&lt;/p&gt;
 &lt;/div&gt;
 </content>
-    <link href="https://geometor.github.io/relop/log/22.351-053731/" rel="alternate"/>
+    <link href="https://geometor.github.io/relop/log/22.351-053731/"/>
     <summary>First log entry for the project</summary>
     <published>2022-12-17T05:37:31+00:00</published>
   </entry>
@@ -26,7 +26,7 @@
 &lt;p&gt;begin organizing previous writings and references&lt;/p&gt;
 &lt;/div&gt;
 </content>
-    <link href="https://geometor.github.io/relop/log/22.351-055326/" rel="alternate"/>
+    <link href="https://geometor.github.io/relop/log/22.351-055326/"/>
     <summary>begin organizing previous writings and references</summary>
     <category term="urgent" label="urgent"/>
     <published>2022-12-17T05:53:26+00:00</published>
@@ -39,7 +39,7 @@
 &lt;p&gt;Graphviz is a layout engine for various types of graphs&lt;/p&gt;
 &lt;/div&gt;
 </content>
-    <link href="https://geometor.github.io/relop/log/22.359-070741/" rel="alternate"/>
+    <link href="https://geometor.github.io/relop/log/22.359-070741/"/>
     <summary>Graphviz is a layout engine for various types of graphs</summary>
     <category term="graphs" label="graphs"/>
     <published>2022-12-25T07:07:41+00:00</published>
